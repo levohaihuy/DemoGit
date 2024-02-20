@@ -7,6 +7,6 @@ namespace AutomobileSolution.AutomobileLibrary.DataAccess
 {
     public class Car
     {
-        
+        const
     }
 }
